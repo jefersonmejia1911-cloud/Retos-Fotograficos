@@ -59,7 +59,7 @@ html, body {
    ========================================================= */
 .canvas-overlay {
   position: absolute;
-  top: 5%;
+  top: 15%;
   left: 50%;
   transform: translateX(-50%);
   width: 90%;
@@ -180,7 +180,7 @@ html, body {
   position: absolute;
   color: #ffffff;
   font-family: 'Arial Black', sans-serif;
-  font-size: 11px;
+  font-size: 13px;
   font-weight: bold;
   text-shadow: 1px 1px 3px #000;
   text-align: center;
