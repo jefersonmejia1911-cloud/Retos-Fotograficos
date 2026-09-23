@@ -4,7 +4,7 @@
 const CONFIG = {
   porcentajeBorde: 0.98,
   porcentajeRuleta: 0.76,
-  porcentajeCentro: 0.35,
+  porcentajeCentro: 0.50,
   distanciaTextoMargen: 18,
   tamanoFuenteFactor: 0.045,
   anchoMaximoTextoFactor: 0.65
