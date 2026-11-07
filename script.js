@@ -18,8 +18,8 @@ const retos = [
   { id: 2, texto: "TEXTURAS", texturaSrc: "textura_2.png", ejemploImg: "ejemplo-TEXTURAS.jpg", textoejemplo: "TEXTURAS: Capturar texturas asociadas al entorno, tales como escaleras, puertas, paredes…" },
   { id: 3, texto: "SOMBRAS", texturaSrc: "textura_1.png", ejemploImg: "ejemplo-SOMBRAS.jpg", textoejemplo: "SOMBRAS: Utilizar la luz solar o artificial para componer una imagen enfocada en siluetas o sombras." },
   { id: 4, texto: "REFLEJOS", texturaSrc: "textura_2.png", ejemploImg: "ejemplo-REFLEJOS.jpg", textoejemplo: "REFLEJOS: Registrar imágenes reflejadas en superficies como charcos, vidrios, espejos o superficies metálicas." },
-  { id: 5, texto: "HORA DORADA", texturaSrc: "textura_1.png", ejemploImg: "ejemplo-HORA-DORADA.png", textoejemplo: "HORA DORADA: Aprovechar las platabandas y el horario para retratar los atardeceres en el barrio" },
-  { id: 6, texto: "ALGO EN MOVIMIENTO", texturaSrc: "textura_2.png", ejemploImg: "ejemplo-MOVIMIENTO.png", textoejemplo: "ALGO EN MOVIMIENTO: Retratar el movimiento cotidiano dentro del barrio o dentro de la ruta." }
+  { id: 5, texto: "PLANO GENERAL", texturaSrc: "textura_1.png", ejemploImg: "ejemplo-HORA-DORADA.png", textoejemplo: "HORA DORADA: Aprovechar las platabandas y el horario para retratar los atardeceres en el barrio" },
+  { id: 6, texto: "PLANO CONTRAPICADO", texturaSrc: "textura_2.png", ejemploImg: "ejemplo-MOVIMIENTO.png", textoejemplo: "ALGO EN MOVIMIENTO: Retratar el movimiento cotidiano dentro del barrio o dentro de la ruta." }
 ];
 
 // Estado global
